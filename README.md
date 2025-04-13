@@ -1,2 +1,2 @@
 # Benchmark-test-of-various-models-for-distributional-model-inferencing-unit-DMIU-used-in-Tinfer-cloud
-This is the benchmarket test using test sets from Language Model Evaluation Harness released by EleutherAI
+This is the benchmarket test using test sets from Language Model Evaluation Harness released by EleutherAI. The test set includes 57 subjects from MMLU(Massive Multitask Language Understanding), GSM8K(Grade School Math 8K), TruthfulQA, 27 subsets from BBH (Big Bench Hard). Evaluation methods for each test sets varies. The test script is given.
